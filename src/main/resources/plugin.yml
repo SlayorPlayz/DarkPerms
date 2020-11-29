@@ -1,7 +1,0 @@
-name: DarkPerms
-version: 0.1.1
-main: darkdevs.xyz.Main
-api-version: 1.15
-commands:
-  darkperms:
-    aliases: [dp]
